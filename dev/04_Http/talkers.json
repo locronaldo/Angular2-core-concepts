@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "name": "Merouane Harriga",
+      "topic": "The Core Concepts of Angular 2"
+    },
+    {
+      "name": "Romain Pellerin",
+      "topic": "Continuous Delivery done right by leveraging Git"
+    },
+    {
+      "name": "Antoine Wacheux",
+      "topic": "Introduction à Rust"
+    },
+    {
+      "name": "Pierre-Gilles Leymarie",
+      "topic": "Automatiser sa maison avec un Raspberry Pi et Gladys"
+    },
+    {
+      "name": "Eric Gourlaouen",
+      "topic": "Django Rest Framework"
+    },
+    {
+      "name": "Aladin Taleb",
+      "topic": "Faire communiquer une app iOS native avec un Webserver REST !"
+    }
+    
+  ]
+}
